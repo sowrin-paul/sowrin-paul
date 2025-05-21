@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  💻 CSE Student | 🧠 Passionate about AI & Full Stack Development | 🇧🇩 Based in Bangladesh | Open For Internship ans Collabs 🫱🏻‍🫲🏻
+  💻 CSE Student | 🧠 Passionate about AI & Full Stack Development | 🇧🇩 Based in Bangladesh | Open for Internships and Collaborations 🫱🏻‍🫲🏻
 </p>
 
 ---
