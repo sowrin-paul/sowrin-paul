@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=11CAFF&random=true&width=450&lines=Interactive+Web+Dev;Interested+in+AI+Models+and+Agent;Learning+new+skills+daily;Let's+build+something+awesome!!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=11CAFF&random=true&width=500&lines=Full+Stack+Developer+%7C+AI+Explorer;Building+smart+tools+with+Python+%26+React;Learning+LLMs+%26+Data+Engineering;Let's+build+something+awesome+🚀" alt="Typing SVG" />
   </a>
 </div>
 
@@ -21,6 +21,9 @@
 - 🧠 Interested in **Data Engineering**, **LLMs**, and **Full Stack Development**
 - 💬 Ask me about: Python, React, Django, PostgreSQL, REST APIs, Chatbots
 - 🚀 Currently working on: AdoSupport – an adolescent health support platform
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sowrin-paul&style=flat-square&color=blue" alt="Profile views" />
+</p>
 
 ---
 
