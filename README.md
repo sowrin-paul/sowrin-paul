@@ -19,7 +19,7 @@
 ### 🌟 About Me
 - 🎓 CSE student with a passion for building real-world software solutions
 - 🧠 Interested in **Data Engineering**, **LLMs**, and **Full Stack Development**
-- 💬 Ask me about: Python, React, Django, PostgreSQL, REST APIs, Chatbots
+- 💬 Ask me about: Python, React, Django, PostgreSQL, REST APIs, PyTorch, Chatbots
 - 🚀 Currently working on: AdoSupport – an adolescent health support platform
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sowrin-paul&style=flat-square&color=blue" alt="Profile views" />
@@ -28,7 +28,7 @@
 ---
 
 ### 🛠️ Tech Stack
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
