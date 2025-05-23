@@ -27,7 +27,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+<h1 align="center"> 🛠️ Tech Stack </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
