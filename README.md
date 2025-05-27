@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  💻 CSE Student | 🧠 Passionate about AI & Full Stack Development | 🇧🇩 | Open for Internships and Collaborations 🫱🏻‍🫲🏻
+  💻 CSE Student | 🧠 Passionate about AI & Full Stack Development | Open for Internships and Collaborations 🫱🏻‍🫲🏻
 </p>
 
 ---
