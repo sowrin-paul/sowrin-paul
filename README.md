@@ -62,6 +62,13 @@
 
 ---
 
+### 🔥 My WakaTime Stats
+<p align="center">
+  <a href="https://wakatime.com/@3d0db17f-4655-47b9-8ec3-7a9245ca675f"><img src="https://wakatime.com/badge/user/3d0db17f-4655-47b9-8ec3-7a9245ca675f.svg" alt="Total time coded since Jun 24 2025" /></a>
+</p>
+
+---
+
 ### 📈 My Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowrin-paul&layout=compact&theme=tokyonight"/>
