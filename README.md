@@ -64,7 +64,7 @@
 
 ### 🔥 My Wakatime Stats
 <p align="center">
-  <a href="https://wakatime.com/badge/user/3d0db17f-4655-47b9-8ec3-7a9245ca675f/project/801b0539-caa1-47e8-96c9-6419c915f505"><img src="https://wakatime.com/badge/user/3d0db17f-4655-47b9-8ec3-7a9245ca675f/project/801b0539-caa1-47e8-96c9-6419c915f505.svg" alt="wakatime"></a>
+  <figure><embed src="https://wakatime.com/share/@3d0db17f-4655-47b9-8ec3-7a9245ca675f/9725d1ee-a3e9-42e3-b47b-3fe28b1ea891.svg"></embed></figure>
 </p>
 
 ---
