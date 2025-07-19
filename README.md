@@ -62,6 +62,13 @@
 
 ---
 
+### 🔥 My Wakatime Stats
+<p align="center">
+  <a href="https://wakatime.com/badge/user/3d0db17f-4655-47b9-8ec3-7a9245ca675f/project/801b0539-caa1-47e8-96c9-6419c915f505"><img src="https://wakatime.com/badge/user/3d0db17f-4655-47b9-8ec3-7a9245ca675f/project/801b0539-caa1-47e8-96c9-6419c915f505.svg" alt="wakatime"></a>
+</p>
+
+---
+
 ### 📈 My Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowrin-paul&layout=compact&theme=tokyonight"/>
