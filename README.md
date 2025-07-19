@@ -62,17 +62,6 @@
 
 ---
 
-### 🔥 My Wakatime Stats
-<p align="center">
-  <img width="48%" src="[https://github-readme-stats.vercel.app/api?username=sowrin-paul&show_icons=true&theme=radical](https://wakatime.com/badge/user/3d0db17f-4655-47b9-8ec3-7a9245ca675f/project/a91d24ad-38e2-478d-a9c5-06255416f83a.svg)" />
-  <img width="48%" src="https://wakatime.com/badge/user/3d0db17f-4655-47b9-8ec3-7a9245ca675f/project/801b0539-caa1-47e8-96c9-6419c915f505.svg" />
-  <img width="48%" src="https://wakatime.com/badge/user/3d0db17f-4655-47b9-8ec3-7a9245ca675f/project/72833641-8a45-47a9-aa9f-afb68c10e0f7.svg" />
-  <img width="48%" src="https://wakatime.com/badge/user/3d0db17f-4655-47b9-8ec3-7a9245ca675f/project/4cc263cc-209c-4a83-b399-4d7d29e566e0.svg" />
-  <img width="48%" src="https://wakatime.com/badge/user/3d0db17f-4655-47b9-8ec3-7a9245ca675f/project/4cc263cc-209c-4a83-b399-4d7d29e566e0.svg" />
-</p>
-
----
-
 ### 📈 My Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowrin-paul&layout=compact&theme=tokyonight"/>
