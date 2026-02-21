@@ -57,8 +57,8 @@
 
 ### 🔥 My GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sowrin-paul&show_icons=true&theme=radical" />
-  <img width="48%" src="https://githubme-streak-stats.herokuapp.com/?user=sowrin-paul&theme=radical"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sowrin-paul&show_icons=true&cache_seconds=3600" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sowrin-paul&theme=radical"/>
 </p>
 
 ---
