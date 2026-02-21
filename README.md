@@ -72,7 +72,7 @@
 
 ### 📈 My Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowrin-paul&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowrin-paul&layout=compact&cache_seconds=3600"/>
 </p>
 
 ---
@@ -89,9 +89,3 @@
   <a href="https://www.linkedin.com/in/sowrin-paul-b3b928229/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://sowrinpaul.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
-
-# My GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sowrin-paul&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sowrin-paul&show_icons=true&cache_seconds=3600)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sowrin-paul&layout=compact&cache_seconds=3600)
