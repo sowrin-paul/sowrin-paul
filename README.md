@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Hi%20There,%20I'm%20Sowrin%20Paul&fontSize=38&fontColor=0d1117&animation=twinkling&desc=AI/ML%20Enthusiast&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=650&height=100&lines=AI+%26+Machine+Learning+Enthusiast;Computer+Science+%26+Engineering+Graduate;Building+Practical+AI+%2F+ML+Projects;NLP+%26+LLM+Explorer;Open+Source+Learner&color=7DD3FC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=650&height=170&lines=AI+%26+Machine+Learning+Enthusiast;Computer+Science+%26+Engineering+Graduate;Building+Practical+AI+%2F+ML+Projects;NLP+%26+LLM+Explorer;Open+Source+Learner&color=7DD3FC" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -44,7 +44,7 @@ const profile = {
 
 ### 🎙️ Personal AI Agent
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sowrin-paul&repo=Personal_AI_Assistant&theme=dark&title_color=7dd3fc&icon_color=7dd3fc&border_color=7dd3fc&bg_color=0d1117" alt="Personal_AI_Assistant"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=sowrin-paul&repo=Personal_AI_Assistant&theme=dark&title_color=7dd3fc&icon_color=7dd3fc&border_color=7dd3fc&bg_color=0d1117" alt="Personal_AI_Assistant"/>
 
 Python-based voice assistant using LLaMA via Ollama for intent detection, automating system tasks hands-free.
 
@@ -60,7 +60,7 @@ Python-based voice assistant using LLaMA via Ollama for intent detection, automa
 
 ### 🏠 CareSerenity
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sowrin-paul&repo=CareSerenity&theme=dark&title_color=7dd3fc&icon_color=7dd3fc&border_color=7dd3fc&bg_color=0d1117" alt="CareSerenity"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=sowrin-paul&repo=CareSerenity&theme=dark&title_color=7dd3fc&icon_color=7dd3fc&border_color=7dd3fc&bg_color=0d1117" alt="CareSerenity"/>
 
 Web system to manage orphanage operations: donor communication, child profiles, and admin dashboards.
 
@@ -76,7 +76,7 @@ Web system to manage orphanage operations: donor communication, child profiles, 
 
 ### 🎮 Interactive Story Game
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sowrin-paul&repo=Interactive-Story-Game&theme=dark&title_color=7dd3fc&icon_color=7dd3fc&border_color=7dd3fc&bg_color=0d1117" alt="Interactive-Story-Game"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=sowrin-paul&repo=Interactive-Story-Game&theme=dark&title_color=7dd3fc&icon_color=7dd3fc&border_color=7dd3fc&bg_color=0d1117" alt="Interactive-Story-Game"/>
 
 A branching narrative game where user choices dynamically influence story progression through logic trees.
 
@@ -92,7 +92,7 @@ A branching narrative game where user choices dynamically influence story progre
 
 ### 💬 Chatbot
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sowrin-paul&repo=chatbot&theme=dark&title_color=7dd3fc&icon_color=7dd3fc&border_color=7dd3fc&bg_color=0d1117" alt="chatbot"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=sowrin-paul&repo=chatbot&theme=dark&title_color=7dd3fc&icon_color=7dd3fc&border_color=7dd3fc&bg_color=0d1117" alt="chatbot"/>
 
 A conversational chatbot application.
 
@@ -106,7 +106,7 @@ A conversational chatbot application.
 
 ### 🎛️ Model Tuning
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sowrin-paul&repo=Model_Tuning&theme=dark&title_color=7dd3fc&icon_color=7dd3fc&border_color=7dd3fc&bg_color=0d1117" alt="Model_Tuning"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=sowrin-paul&repo=Model_Tuning&theme=dark&title_color=7dd3fc&icon_color=7dd3fc&border_color=7dd3fc&bg_color=0d1117" alt="Model_Tuning"/>
 
 Experiments and workflows for fine-tuning machine learning models.
 
@@ -121,7 +121,7 @@ Experiments and workflows for fine-tuning machine learning models.
 
 ### 🎣 Phishing Model
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sowrin-paul&repo=Phishing_model&theme=dark&title_color=7dd3fc&icon_color=7dd3fc&border_color=7dd3fc&bg_color=0d1117" alt="Phishing_model"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=sowrin-paul&repo=Phishing_model&theme=dark&title_color=7dd3fc&icon_color=7dd3fc&border_color=7dd3fc&bg_color=0d1117" alt="Phishing_model"/>
 
 A machine learning model for detecting phishing attempts.
 
@@ -166,12 +166,12 @@ A machine learning model for detecting phishing attempts.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sowrin-paul&show_icons=true&theme=dark&title_color=7dd3fc&icon_color=7dd3fc&text_color=ffffff&bg_color=0d1117&border_color=7dd3fc" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowrin-paul&layout=compact&theme=dark&title_color=7dd3fc&text_color=ffffff&bg_color=0d1117&border_color=7dd3fc" alt="Top Languages" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=sowrin-paul&show_icons=true&theme=dark&title_color=7dd3fc&icon_color=7dd3fc&text_color=ffffff&bg_color=0d1117&border_color=7dd3fc" alt="GitHub Stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sowrin-paul&layout=compact&theme=dark&title_color=7dd3fc&text_color=ffffff&bg_color=0d1117&border_color=7dd3fc" alt="Top Languages" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowrin-paul&theme=dark&background=0d1117&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&border=7dd3fc" alt="Streak Stats"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=sowrin-paul&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophy"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=sowrin-paul&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophy"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sowrin-paul&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true&bg_color=0d1117" alt="Contribution Graph" width="100%"/>
 
